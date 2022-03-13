@@ -1,2 +1,3 @@
-# terraform-module-aws-load-balancer-application
-Terraform for deploy an Application Load Balancer
+# load-balancer-application
+
+Terraform an Application Load Balancer (public or private)
